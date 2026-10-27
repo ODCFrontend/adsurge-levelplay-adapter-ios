@@ -13,9 +13,9 @@ let package = Package(
     )
   ],
   dependencies: [
-    .package(url: "https://github.com/ODCFrontend/adsurge-adn-ios.git", exact: "2.0.0"),
+    .package(url: "https://github.com/ODCFrontend/adsurge-adn-ios.git", exact: "2.0.1"),
     .package(
-      url: "https://github.com/ironsource-mobile/LevelPlay-Swift-Package.git", from: "9.3.0"),
+      url: "https://github.com/ironsource-mobile/LevelPlay-Swift-Package.git", "9.2.0"..<"99.0.0"),
   ],
   targets: [
     .target(
