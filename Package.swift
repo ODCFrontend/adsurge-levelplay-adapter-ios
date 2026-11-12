@@ -31,7 +31,7 @@ let package = Package(
       name: "AdSurgeADNAdapterForLevelPlay",
       url:
         "https://github.com/ODCFrontend/adsurge-levelplay-adapter-ios/releases/download/2.0.200/AdSurgeADNAdapterForLevelPlay.zip",
-      checksum: "6e1c1dee2ce1ff8c714ef9c6e3473ed88c390202ca4de79a2bb36d2c84b9e57c"
+      checksum: "ebbe61673aa2bc5e3bf723eb6827e21ea98681a3be5dc48c6129bb2b85799566"
     ),
   ]
 )
